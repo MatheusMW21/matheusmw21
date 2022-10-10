@@ -1,4 +1,4 @@
-### Olá! Me chamo Matheus e sou estudante de Computação, pela Universidade Paulista.
+### Olá! Me chamo Matheus e sou estudante de Computação, atualmente estudando Python.
 
 <div align="center">
   <a href="https://github.com/MatheusMW21">
