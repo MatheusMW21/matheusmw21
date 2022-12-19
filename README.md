@@ -9,7 +9,6 @@
 ## Objetivos
 - 🐍 Atualmente estou estudando BackEnd com Python
 - 🐲 Tenho muito interesse pela área de Engenharia de Software, IA e Machine Learning 
-- 🐱 Trabalho como Aprendiz na Boa Vista na área financeira
   
 </br>
     
