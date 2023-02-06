@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+Matheus;Tenho+19+anos;Sejam+bem+vindos!!!)](https://git.io/typing-svg)
+## Hello World! My name is Matheus and I'm a Computer Science student. Welcome to my Git Hub!
 
 <div align="center">
   <a href="https://github.com/MatheusMW21">
@@ -6,12 +6,12 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMW21&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## Objetivos
-- 🐍 Atualmente estou estudando BackEnd com Python
-- 🐲 Tenho muito interesse pela área de Engenharia de Software, IA, Machine Learning e Ciência de Dados 
+## Goals
+- 🐍 Currently learning Backend with Python, Java and Database  
+- 🐲 I am very interested in Software Engineering, AI, Machine Learning and Data Science
 </br>
     
- ## Linguagens 
+ ## Programming Languages
 <div>    
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -24,7 +24,7 @@
 <br />
 </div>
 
-## Contatos
+## Contacts 
 
 <div> 
   <a href="https://www.instagram.com/matheusmw08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
