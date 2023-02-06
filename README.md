@@ -1,4 +1,4 @@
-## Hello World! My name is Matheus and I'm a Computer Science student. Welcome to my Git Hub!
+## Hello World, welcome to my Git Hub!
 
 <div align="center">
   <a href="https://github.com/MatheusMW21">
