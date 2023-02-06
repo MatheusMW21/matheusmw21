@@ -8,8 +8,7 @@
 
 ## Objetivos
 - 🐍 Atualmente estou estudando BackEnd com Python
-- 🐲 Tenho muito interesse pela área de Engenharia de Software, IA e Machine Learning 
-  
+- 🐲 Tenho muito interesse pela área de Engenharia de Software, IA, Machine Learning e Ciência de Dados 
 </br>
     
  ## Linguagens 
