@@ -8,7 +8,7 @@
 
 ## Goals
 - 🐍 Currently learning Backend with Python, Java and Database  
-- 🐲 I am very interested in Software Engineering, AI, Machine Learning and Data Science
+- 🐲 I am very interested in Software Engineering, AI and Machine Learning
 </br>
     
  ## Programming Languages
