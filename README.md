@@ -6,9 +6,13 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMW21&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## Goals
-- 🐍 Currently learning Backend with Python, Java and Database  
-- 🐲 I am very interested in Software Engineering, AI and Machine Learning
+## 🥅 Goals
+- ☕ Internship in IT to gain hands-on experience and contribute to software development projects;
+- 🌻 Improve my knowledge in software development, systems and data analysis;
+- 💻 Developing my career and learning under the supervision and encouragement of a company committed to innovation;
+- 🐍 Currently learning Backend with Python, Java and Database;  
+- 🐲 I am very interested in Software Engineering, AI and Machine Learning.
+  
 </br>
     
  ## Programming Languages
