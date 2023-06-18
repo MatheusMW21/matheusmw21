@@ -1,11 +1,11 @@
-## Hello World, welcome to my Git Hub!
+## Hello world! Welcome to my Git Hub!
 
 ## 🥅 Goals
-- ☕ Internship in IT to gain hands-on experience and contribute to software development projects;
+- ☕ Internship/JR in IT to gain hands-on experience and contribute to software development projects;
 - 🌻 Improve my knowledge in software development, systems and data analysis;
 - 💻 Developing my career and learning under the supervision and encouragement of a company committed to innovation;
 - 🐍 Currently learning Backend with Python, Java and Database;  
-- 🐲 I am very interested in Software Engineering, AI and Machine Learning.
+- 🐲 I am very interested in Back-End, Algorithms, Software Engineering, AI and Machine Learning.
   
 </br>
     
