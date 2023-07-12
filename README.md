@@ -1,32 +1,29 @@
-## Hello world! Welcome to my Git Hub!
+## 🌎 Hello world! Welcome to my Git Hub!
 
 ## 🥅 Goals
 - ☕ Internship/JR in IT to gain hands-on experience and contribute to software development projects;
 - 🌻 Improve my knowledge in software development, systems and data analysis;
-- 💻 Developing my career and learning under the supervision and encouragement of a company committed to innovation;
-- 🐍 Currently learning Backend with Python, Java and Database;  
-- 🐲 I am very interested in Back-End, Algorithms, Software Engineering, AI and Machine Learning.
+- 🐍 Currently learning Backend with Java, API Rest, Spring Boot, JPA, JDBC, MySQL;  
+- 🐲 I am very interested in Back-End, Software Engineering, AI and Machine Learning.
   
 </br>
     
- ## Programming Languages
+ ## 💻 Tech Stack
 <div>  
-<img align ="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
 <br />
 <br />
 </div>
 
-## Contacts 
+## 🌐 Social
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matheusmw08/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuspinheiro08) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusmw21@gmail.com)
 
-<div> 
-  <a href="https://www.instagram.com/matheusmw08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href = "mailto:matheusmw21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-pinheiro-4bb335229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
- 
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=matheusmw21&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmw21&theme=neon&hide_border=false"  width="400px" />
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=matheusmw21&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
