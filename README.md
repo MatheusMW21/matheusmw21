@@ -3,7 +3,7 @@
 ## 🥅 Goals
 - ☕ Internship/JR in IT to gain hands-on experience and contribute to software development projects;
 - 🌻 Improve my knowledge in software development, systems and data analysis;
-- 🐍 Currently learning Backend with C#, .NET, ASP.NET, SQLServer, NodeJs, Angular;  
+- 🐍 Currently learning Backend with C#, .NET, ASP.NET, SQLServer, Node.JS;  
 - 🐲 I am very interested in Back-End, Software Engineering, AI and Machine Learning.
   
 </br>
