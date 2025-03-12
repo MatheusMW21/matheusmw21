@@ -1,5 +1,5 @@
 ## `~$ whoami` 
-I'm a software developer and systems analyst with practical experience gained through a comprehensive internship at @Ericsson. I am committed to continuous learning in the areas of software engineering, analysis and systems architecture and applying my knowledge to challenging projects. 
+I'm a software developer and systems analyst with +1practical experience gained through a comprehensive internship at @Ericsson. I am committed to continuous learning in the areas of software engineering, analysis and systems architecture and applying my knowledge to challenging projects. 
 
 My internship experience, in which I contributed to the development and maintenance of systems, provided me with a solid foundation in problem solving, analysis and software development.
 
@@ -7,7 +7,7 @@ I am excited to collaborate in innovative environments that promote professional
 ## `~$ cat Goals.txt` 
 - ☕ JR in IT to gain hands-on experience and contribute to software development projects;
 - 🌻 Dedicated to improve my knowledge in the realms of software development, systems analysis;
-- 🐍 Actively engaged in learning the intricacies of Backend development, specializing in Node.js, C#, .NET, ASP.NET, Java, SQLServer and Azure.
+- 🐍 Actively engaged in learning the intricacies of Backend development, specializing in Node.js, C#, .NET, ASP.NET, SQLServer and Azure.
 - 🐲 I am very interested in Back-End, Software Engineering and System Architecture 
   
 </br>
