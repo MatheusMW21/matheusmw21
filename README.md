@@ -1,17 +1,20 @@
-## `~$ whoami` 
-I'm a software developer and systems analyst with +1practical experience gained through a comprehensive internship at @Ericsson. I am committed to continuous learning in the areas of software engineering, analysis and systems architecture and applying my knowledge to challenging projects. 
+## `~$ whoami`
+I'm a Software Developer and Systems Analyst with practical experience gained through internships at **Ericsson do Brasil** and **Ericsson Gestão e Serviços**.  
 
-My internship experience, in which I contributed to the development and maintenance of systems, provided me with a solid foundation in problem solving, analysis and software development.
+I contributed to the **development and maintenance of backend systems**, including services in C# (.NET), Node.js, SQL Server, and Azure, gaining hands-on experience in **problem-solving, software development, and system operations**.  
 
-I am excited to collaborate in innovative environments that promote professional growth and the application of advanced technological solutions to solve complex problems.
-## `~$ cat Goals.txt` 
-- ☕ JR in IT to gain hands-on experience and contribute to software development projects;
-- 🌻 Dedicated to improve my knowledge in the realms of software development, systems analysis;
-- 🐍 Actively engaged in learning the intricacies of Backend development, specializing in Node.js, C#, .NET, ASP.NET, SQLServer and Azure.
-- 🐲 I am very interested in Back-End, Software Engineering and System Architecture 
+I am passionate about applying my knowledge in **Backend development, Software Engineering, and System Architecture**, and I thrive in environments that foster innovation and professional growth.
+
+---
+## `~$ cat Goals.txt`
+- ☕ Continue gaining hands-on experience as a Junior in IT and contribute to impactful software projects.  
+- 🌻 Improve expertise in **software development, systems analysis, and cloud solutions**.  
+- 🐍 Specialize in **Backend development** with C#, .NET, ASP.NET, Node.js, SQL Server, and Azure.  
+- 🐲 Focused on building scalable, maintainable, and high-performance systems.
   
+---
 </br>
-    
+
  ## ` ~$ Tools&Skills&Stats --help` 
 <div>  
 
