@@ -1,10 +1,8 @@
-## `~$ whoami`
-I'm a Software Developer and Systems Analyst with practical experience gained through internships at **Ericsson do Brasil** and **Ericsson Gestão e Serviços**.  
+## `~$ whoami`  
 
-I contributed to the **development and maintenance of backend systems**, including services in C# (.NET), Node.js, SQL Server, and Azure, gaining hands-on experience in **problem-solving, software development, and system operations**.  
+I am a programmer with over two years of experience in backend development, primarily working with .NET and Node.js to build APIs, background services, and system integrations.
 
-I am passionate about applying my knowledge in **Backend development, Software Engineering, and System Architecture**, and I thrive in environments that foster innovation and professional growth.
-
+I have experience with modern architectures, microservices, and cloud-based solutions, using technologies such as SQL Server, Docker, and Microsoft Azure.
 ---
 ## `~$ cat Goals.txt`
 - ☕ Continue gaining hands-on experience as a Junior in IT and contribute to impactful software projects.  
