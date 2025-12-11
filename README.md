@@ -1,8 +1,8 @@
 ## `~$ whoami`  
 
 I am a programmer with over two years of experience in backend development, primarily working with .NET and Node.js to build APIs, background services, and system integrations.
-
 I have experience with modern architectures, microservices, and cloud-based solutions, using technologies such as SQL Server, Docker, and Microsoft Azure.
+
 ---
 ## `~$ cat Goals.txt`
 - ☕ Continue gaining hands-on experience as a Junior in IT and contribute to impactful software projects.  
