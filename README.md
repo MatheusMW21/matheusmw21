@@ -1,26 +1,45 @@
-## `~$ whoami`  
+### `~$ whoami`
 
-I am a programmer with over two years of experience in backend development, primarily working with .NET and Node.js to build APIs, background services, and system integrations.
-I have experience with modern architectures, microservices, and cloud-based solutions, using technologies such as SQL Server, Docker, and Microsoft Azure.
+I am a Backend Engineer with over two years of experience designing and implementing robust backend ecosystems. My expertise lies in building high-performance APIs, resilient background services, and seamless system integrations using .NET and Node.js.
+
+* **Architecture:** Proficient in Microservices, Clean Architecture, and RESTful design.
+* **Infrastructure:** Experienced in containerization with Docker and cloud orchestration via Microsoft Azure.
+* **Data:** Focused on relational database modeling and query optimization using SQL Server.
 
 ---
-## `~$ cat Goals.txt`
-- ☕ Continue gaining hands-on experience as a Junior in IT and contribute to impactful software projects.  
-- 🌻 Improve expertise in **software development, systems analysis, and cloud solutions**.  
-- 🐍 Specialize in **Backend development** with C#, .NET, ASP.NET, Node.js, SQL Server, and Azure.  
-- 🐲 Focused on building scalable, maintainable, and high-performance systems.
-  
+
+### `~$ cat roadmap.sh`
+
+* **Scaling Systems:** Currently focused on building high-concurrency, distributed systems.
+* **Performance:** Implementing caching strategies and message brokers like Azure Service Bus.
+* **Quality Assurance:** Deepening expertise in Test Driven Development (TDD) and CI/CD pipeline automation.
+* **Objective:** Delivering scalable, maintainable, and high-performance software that solves complex business challenges.
+
 ---
-</br>
 
- ## ` ~$ Tools&Skills&Stats --help` 
-<div>  
+### `~$ ls -l skills/`
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, JavaScript, TypeScript, SQL |
+| **Frameworks** | .NET (Core/6+), ASP.NET, Node.js, Express, Entity Framework |
+| **Cloud & DevOps** | Azure (Functions, App Service), Docker, Git, CI/CD |
+
+<br/>
+
+<div> 
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
+---
 
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=matheusmw21&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                   
+### `~$ metrics_and_stats`
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=matheusmw21&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=matheusmw21&theme=neon&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=matheusmw21&theme=neon&layout=compact&hide_border=false" width="45%" />
+</p>
